@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/src/">
+    <File Path="src/CLAUDE.md" />
     <Project Path="src/CentroCirurgico/CentroCirurgico.csproj" />
   </Folder>
 </Solution>
